@@ -60,7 +60,7 @@ int lcm_without_params() {
     return lcm(a, b);
 }
 
-// 파라미터 없이 수를 scanf로 받는 소수 판별 함수
+// 파라미터 없이 수를 scanf로 받는 소수 판별 함수.
 int is_prime_without_params() {
     int n;
     printf("정수를 입력하시오 : ");

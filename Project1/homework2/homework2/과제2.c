@@ -25,7 +25,7 @@ int main() {
         return 0; // 프로그램 종료
     }
     printf("변환된 숫자는 %d 입니다. ", base); // 변환된 숫자를 출력할 것임을 알리는 메시지 출력
-    convert(num, base); // num을 base진수로 변환하여 출력
+    convert(num, base); // num을 base진수로 변환하여 출력.
     printf("\n"); 
     return 0;
 }
